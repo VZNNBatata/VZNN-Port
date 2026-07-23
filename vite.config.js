@@ -3,12 +3,16 @@ import react from "@vitejs/plugin-react";
 import path from "node:path";
 
 export default defineConfig({
+  base: "/VZNN-Port/",
+
   plugins: [react()],
+
   resolve: {
     alias: {
       "@": path.resolve(process.cwd(), "src"),
     },
   },
+
   server: {
     port: 5173,
     proxy: {
