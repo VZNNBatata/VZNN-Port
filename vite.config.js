@@ -3,8 +3,6 @@ import react from "@vitejs/plugin-react";
 import path from "node:path";
 
 export default defineConfig({
-  base: "/VZNN-Port/",
-
   plugins: [react()],
 
   resolve: {
