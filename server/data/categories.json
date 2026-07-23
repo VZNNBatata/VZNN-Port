@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cat-banners",
+    "name": "Banners",
+    "slug": "banners",
+    "visible": true,
+    "displayOrder": 6
+  },
+  {
+    "id": "cat-logos",
+    "name": "Logos",
+    "slug": "logos",
+    "visible": true,
+    "displayOrder": 2
+  },
+  {
+    "id": "cat-discord",
+    "name": "Discord Design",
+    "slug": "discord-design",
+    "visible": true,
+    "displayOrder": 3
+  },
+  {
+    "id": "cat-illustrations",
+    "name": "Illustrations",
+    "slug": "illustrations",
+    "visible": true,
+    "displayOrder": 4
+  },
+  {
+    "id": "cat-vectors",
+    "name": "Vector Graphics",
+    "slug": "vectors",
+    "visible": true,
+    "displayOrder": 5
+  },
+  {
+    "id": "cat-gfx",
+    "name": "Artwork",
+    "slug": "artwork",
+    "visible": true,
+    "displayOrder": 1
+  },
+  {
+    "id": "cat-motion",
+    "name": "Motion Design",
+    "slug": "motion-design",
+    "visible": true,
+    "displayOrder": 7
+  },
+  {
+    "id": "cat-ui",
+    "name": "UI Design",
+    "slug": "ui-design",
+    "visible": true,
+    "displayOrder": 8
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sample-project",
+    "title": "Windows So Colorful",
+    "slug": "authorial-artwork",
+    "category": "artwork",
+    "shortDescription": "An art piece with VZNN's tastes",
+    "fullDescription": "Windows 7 Be Like:",
+    "thumbnail": "/uploads/1784762265121-8ou2a8ry.png",
+    "coverImage": "/uploads/1784762269252-cf5dmgm7.png",
+    "galleryImages": [],
+    "videoUrl": "",
+    "gifUrl": "",
+    "year": "2025 - August",
+    "client": "Personal Work",
+    "software": [
+      "Photoshop · Illustrator"
+    ],
+    "projectType": "Artwork",
+    "featured": true,
+    "visible": true,
+    "displayOrder": 2,
+    "imageAltText": "Windows 7",
+    "aspect": "wide"
+  },
+  {
+    "id": "07a8a5a4-575a-47b9-94aa-f57a7ad8a302",
+    "galleryImages": [],
+    "software": [
+      "Photoshop · Illustrator"
+    ],
+    "featured": false,
+    "visible": true,
+    "displayOrder": 1,
+    "aspect": "wide",
+    "title": "Douma Redesign",
+    "slug": "Douma",
+    "category": "artwork",
+    "shortDescription": "This project is a redesign of an existing artwork; it's not entirely mine, but it incorporates significant contributions. ",
+    "fullDescription": "https://discord.gg/8gmhHW8JUU",
+    "thumbnail": "/uploads/1784763277025-5qs0outl.png",
+    "coverImage": "/uploads/1784763279242-yqrr1bxi.png",
+    "videoUrl": "",
+    "gifUrl": "",
+    "year": "2025 - November",
+    "client": "Anime Force - Discord In Description",
+    "projectType": "Artwork",
+    "imageAltText": ""
+  },
+  {
+    "id": "d0e82181-204b-47fb-890d-e2951f9946d0",
+    "galleryImages": [],
+    "software": [
+      "Photoshop · Illustrator"
+    ],
+    "featured": false,
+    "visible": true,
+    "displayOrder": 3,
+    "aspect": "wide",
+    "title": "Duck Shot",
+    "slug": "Duck Shot",
+    "category": "artwork",
+    "shortDescription": "Quack Quack",
+    "fullDescription": "Ducks Are Cutes.",
+    "thumbnail": "/uploads/1784765971747-bg3xblk8.png",
+    "coverImage": "/uploads/1784765974529-ept1gth6.png",
+    "videoUrl": "",
+    "gifUrl": "",
+    "year": "2025 - May",
+    "client": "Personal Work",
+    "projectType": "Artwork",
+    "imageAltText": ""
+  }
+]
